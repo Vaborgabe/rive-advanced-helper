@@ -1,0 +1,28 @@
+{
+  "name": "rive-advanced-helper",
+  "version": "1.0.0",
+  "description": "an OBS and twitch focused rive WASM helper package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaborgabe/rive-advanced-helper.git"
+  },
+  "keywords": [
+    "rive"
+  ],
+  "author": "VaporGabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaborgabe/rive-advanced-helper/issues"
+  },
+  "homepage": "https://github.com/Vaborgabe/rive-advanced-helper#readme",
+  "dependencies": {
+    "@rive-app/canvas-advanced": "^2.25.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1"
+  }
+}
